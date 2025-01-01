@@ -1,0 +1,10 @@
+{
+    "name": "sajolkk/gpa-calculator",
+    "description": "A simple GPA calculation package for Laravel.",
+    "autoload": {
+        "psr-4": {
+            "Sajolkk\\GpaCalculator\\": "src/"
+        }
+    },
+    "require": {}
+}
